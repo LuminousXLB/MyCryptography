@@ -10,3 +10,7 @@
 * [Exercise 4.15](chapter-4-message-authentication-codes/exercise-4.15.md)
 * [Extra CBC-XOR](chapter-4-message-authentication-codes/extra-cbc-xor.md)
 
+## Chapter 5 - Hash Functions and Applications
+
+* [Exercise 5.3](chapter-5-hash-functions-and-applications/exercise-5.3.md)
+
