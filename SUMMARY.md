@@ -8,4 +8,5 @@
 * [Exercise 4.8](chapter-4-message-authentication-codes/exercise-4.8.md)
 * [Exercise 4.14](chapter-4-message-authentication-codes/exercise-4.14.md)
 * [Exercise 4.15](chapter-4-message-authentication-codes/exercise-4.15.md)
+* [Extra CBC-XOR](chapter-4-message-authentication-codes/extra-cbc-xor.md)
 
