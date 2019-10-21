@@ -1,4 +1,4 @@
-# Extra CBC-XOR
+# Extra: Authenticated Encryption CBC-XOR
 
 ### Problem
 
