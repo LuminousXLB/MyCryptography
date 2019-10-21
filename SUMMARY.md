@@ -2,6 +2,14 @@
 
 * [What's this](README.md)
 
+## Chapter 1 - Introduction
+
+* [Exercise 1.1](chapter-1-introduction/exercise-1.1.md)
+
+## Chapter 3 - Private-Key Encryption
+
+* [Exercise 3.1](chapter-3-private-key-encryption/exercise-3.1.md)
+
 ## Chapter 4 - Message Authentication Codes
 
 * [Exercise 4.7](chapter-4-message-authentication-codes/4.7.md)

@@ -1,0 +1,23 @@
+# Exercise 1.1
+
+### Problem
+
+Decrypt the ciphertext provided at the end of the section on monoalphabetic substitution ciphers.
+
+### Solution
+
+```text
+abcdefghijklmnopqrstuvwxyz => hcjkfeyvbuxzplomtgwqiasdrn
+```
+
+Plaintext:
+
+```text
+CRYPTOGRAPHICSYSTEMSAREEXTREMELYDIFFICULTTOBUILDNEVERTHELESSF
+ORSOMEREASONMANYNONEXPERTSINSISTONDESIGNINGNEWENCRYPTIONSCHEM
+ESTHATSEEMTOTHEMTOBEMORESECURETHANANYOTHERSCHEMEONEARTHTHEUNF
+ORTUNATETRUTHHOWEVERISTHATSUCHSCHEMESAREUSUALLYTRIVIALTOBREAK
+```
+
+
+
