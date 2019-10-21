@@ -14,3 +14,7 @@
 
 * [Exercise 5.3](chapter-5-hash-functions-and-applications/exercise-5.3.md)
 
+## Chapter 8 - Number Theory and Cryptographic Hardness Assumptions
+
+* [\(Unresolved\) Exercise 8.15](chapter-8-number-theory-and-cryptographic-hardness-assumptions/unresolved-exercise-8.15.md)
+
